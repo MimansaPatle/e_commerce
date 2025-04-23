@@ -1,0 +1,13 @@
+======================================
+use command  
+======================================
+npm i
+to insall node_modules folder in project file 
+
+
+======================================
+HOW TO RUN PROJECT 
+======================================
+STEP 1: RUN SERVER.PY FILE IN FLASKSERVER FOLDER
+STEP 2: RUN XAMPP 
+STEP 3: RUN IN CMD NPM RUN DEV (PERTICULAR PROJECT PATH) 
